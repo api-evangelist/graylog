@@ -1,0 +1,38 @@
+aid: graylog
+name: Graylog
+description: >-
+  Graylog is an open source log management platform for collecting, indexing, and analyzing log data with alerting and dashboard capabilities.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Observability
+  - Logging
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/graylog/refs/heads/main/apis.yml
+created: '2026-03-25'
+modified: '2026-03-25'
+specificationVersion: '0.19'
+apis:
+  - aid: graylog:graylog
+    name: Graylog
+    description: >-
+      Graylog is an open source log management platform for collecting, indexing, and analyzing log data with alerting and dashboard capabilities.
+    humanURL: https://graylog.org
+    tags:
+      - Observability
+      - Logging
+    properties:
+      - type: Documentation
+        url: https://go2docs.graylog.org
+      - type: GitHub Repository
+        url: https://github.com/Graylog2/graylog2-server
+common:
+  - type: Website
+    url: https://graylog.org
+  - type: Documentation
+    url: https://go2docs.graylog.org
+  - type: GitHub Organization
+    url: https://github.com/Graylog2/graylog2-server
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
