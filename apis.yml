@@ -5,8 +5,8 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Observability
   - Logging
+  - Observability
 url: >-
   https://raw.githubusercontent.com/api-evangelist/graylog/refs/heads/main/apis.yml
 created: '2026-03-25'
@@ -19,8 +19,8 @@ apis:
       Graylog is an open source log management platform for collecting, indexing, and analyzing log data with alerting and dashboard capabilities.
     humanURL: https://graylog.org
     tags:
-      - Observability
       - Logging
+      - Observability
     properties:
       - type: Documentation
         url: https://go2docs.graylog.org
