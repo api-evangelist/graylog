@@ -4,10 +4,10 @@
     {
       "source": "https://graylog.org/post/",
       "feed_url": "https://graylog.org/feed/",
-      "saved": 10,
-      "title": "Graylog"
+      "title": "Graylog",
+      "saved": 7
     }
   ],
-  "post_count": 10,
-  "fetched": "2026-05-03T23:29:08Z"
+  "post_count": 17,
+  "fetched": "2026-05-09T20:17:51Z"
 }
