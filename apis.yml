@@ -42,6 +42,17 @@ common:
     url: https://github.com/Graylog2
   - type: Blog
     url: https://graylog.org/post/
+  - type: Integrations
+    url: https://graylog.org/partners/
+integrations:
+  - name: Graylog logo blue
+  - name: GrayLog_Logo_color.png
+  - name: ANSecurity
+  - name: Linux Fabrik
+  - name: Scarybyte
+  - name: Software One
+  - name: stratadefense
+  - name: Graylog Available in AWS Marketplace
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
