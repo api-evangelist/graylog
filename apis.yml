@@ -31,14 +31,14 @@ apis:
         url: https://go2docs.graylog.org
       - type: API Browser
         url: https://go2docs.graylog.org/current/setting_up_graylog/rest_api.htm
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/Graylog2/graylog2-server
 common:
   - type: Website
     url: https://graylog.org
   - type: Documentation
     url: https://go2docs.graylog.org
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/Graylog2
   - type: Blog
     url: https://graylog.org/post/
