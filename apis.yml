@@ -12,7 +12,7 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/graylog/refs/heads/main/apis.yml
 created: '2026-03-25'
-modified: '2026-04-28'
+modified: '2026-05-19'
 specificationVersion: '0.19'
 apis:
   - aid: graylog:graylog
@@ -44,6 +44,9 @@ common:
     url: https://graylog.org/post/
   - type: Integrations
     url: https://graylog.org/partners/
+  - name: MCP Server
+    url: https://github.com/Graylog2/graylog-mcp-registry
+    type: MCPServer
 integrations:
   - name: Graylog logo blue
   - name: GrayLog_Logo_color.png
