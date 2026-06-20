@@ -3,7 +3,7 @@ name: Graylog
 description: >-
   Graylog is an open source log management platform for collecting, indexing, and analyzing log data with alerting and dashboard capabilities.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Logging
   - Observability
