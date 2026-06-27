@@ -49,7 +49,7 @@ common:
   - name: MCP Server
     url: https://github.com/Graylog2/graylog-mcp-registry
     type: MCPServer
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://graylog.org/llms.txt
 integrations:
   - name: Graylog logo blue
