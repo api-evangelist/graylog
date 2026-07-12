@@ -34,6 +34,8 @@ apis:
       - type: GitHubRepository
         url: https://github.com/Graylog2/graylog2-server
 common:
+  - type: DomainSecurity
+    url: security/graylog-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/graylog
   - type: Website
