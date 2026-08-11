@@ -46,6 +46,14 @@ apis:
       - type: GitHubRepository
         url: https://github.com/Graylog2/graylog2-server
 common:
+  - type: IssueTracker
+    url: https://github.com/Graylog2/graylog2-server/issues
+  - type: SecurityPolicy
+    url: https://github.com/Graylog2/graylog2-server/blob/master/SECURITY.md
+  - type: CodeOfConduct
+    url: https://github.com/Graylog2/graylog2-server/blob/master/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/Graylog2/graylog2-server/blob/master/CONTRIBUTING.md
   - type: DomainSecurity
     url: security/graylog-domain-security.yml
   - type: LinkedIn
